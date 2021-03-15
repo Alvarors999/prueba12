@@ -1,0 +1,27 @@
+.widgettitle {
+    font-size:16px;
+    line-height:10px;
+    text-align:left;
+   
+}
+
+.tag-cloud-link {
+    border: 1px solid;
+    margin-top: 5px;
+    display: inline-block;
+    padding: 3px 9px;
+    font-size:9px!important;
+    border-color: rgba(204,176,138,.3)!important;
+}
+
+ul {
+    padding:0;
+}
+
+.sidebar {
+    padding-left:50px;
+}
+
+.title {
+    padding-top:35px;
+}
